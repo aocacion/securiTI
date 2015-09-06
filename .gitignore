@@ -3,3 +3,6 @@ log/**/*
 log/*
 log/development.log
 config/database.yml
+tmp/*
+public/*
+.fuse_hidden*
